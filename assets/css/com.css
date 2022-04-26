@@ -46,40 +46,6 @@ body {
   font-size: 30px;
 }
 
-.fb-comments {
-  border: 1px solid #e9ebee;
-  border-radius: 3px;
-  padding: 0 15px;
-  padding-bottom: 15px;
-  margin: auto;
-  position: relative;
-  color: #4267b2;
-}
-
-.fb-comments-header {
-  padding: 15px 0;
-  border-bottom: 1px solid #e9ebee;
-}
-
-.fb-comments-header span {
-  color: #000;
-  font-weight: 700;
-  font-size: 0.9em;
-}
-
-.fb-comments-comment {
-  border: none;
-  padding: 0;
-  margin: 10px 0;
-  width: 100%;
-}
-
-.fb-comments-reply-wrapper {
-  margin-left: 60px;
-  border-left: 1px dotted #e9ebee;
-  padding-left: 5px;
-}
-
 tr,
 td {
   border: none;
